@@ -108,7 +108,7 @@ public class NinjabrainBotPreferences {
 		boatErrorLimit = new FloatPreference("boat_error", 0.03f, 0f, 0.7f, source);
 		overlayHideDelay = new FloatPreference("overlay_hide_delay", 30f, 1f, 3600f, source);
 		// Double
-		sensitivityAutomatic = new DoublePreference("sensitivity", 0.012727597f, 0f, 1f, source);
+		sensitivityAutomatic = new DoublePreference("sensitivity", 0.02291165f, 0f, 1f, source);
 		customAdjustment = new DoublePreference("custom_adjustment", 0.01, 0f, 1f, source);
 		crosshairCorrection = new DoublePreference("crosshair_correction", 0, -1f, 1f, source);
 		// Boolean
